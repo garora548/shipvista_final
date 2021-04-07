@@ -9,7 +9,7 @@ npm install bootstrap
 npm install react-router-dom
 npm i -s axios
 
-//Replace the src folder of sampleApp with the src folder provided
+//Replace the src folder of sampleApp with the src folder provided in ShipvistaWaterPlants folder
 
 //move to .net solution and run it.
 
