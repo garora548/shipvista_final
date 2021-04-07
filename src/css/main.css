@@ -1,0 +1,14 @@
+.anchorDisabled {
+    pointer-events: none;
+    color: #ccc;
+};
+
+.redBackground{
+    color: 'red';
+background-color: red;
+};
+
+.greenBackground{
+    color: 'red';
+    background-color: green;
+}
