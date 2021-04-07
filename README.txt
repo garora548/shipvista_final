@@ -1,6 +1,6 @@
-//Open cmd and create a new react app with sampleApp // any name you can use.
+//Open cmd and create a new react app with sampleapp // any name you can use.
 
-npx create-react-app sampleApp
+npx create-react-app sampleapp
 cd sampleApp
 
 //Install these in React sampleApp folder through cmd  
@@ -19,7 +19,7 @@ npm i -s axios
 //My is GAURAV_PC\\SQLEXPRESS
 //you can use yours
 
-//run our newly created app "sampleApp" by 
+//run our newly created app "sampleapp" by 
 npm start from cmd
 
 You can add 5 plants. 
